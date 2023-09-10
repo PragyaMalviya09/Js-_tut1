@@ -21,8 +21,15 @@
 //""=> false
 //"hitesh"=> true
 
-let someNumber =33
-let stringNumber = String(someNumber);// it is for conversion
-console.log(stringNumber);
-console.log(typeof someNumber);
-console.log(typeof stringNumber);
+// let someNumber =33
+// let stringNumber = String(someNumber);// it is for conversion
+// console.log(stringNumber);
+// console.log(typeof someNumber);
+// console.log(typeof stringNumber);
+
+//***********************operation**************** */
+
+let value =3;
+
+let negValue = -value
+//console.log(negValue);
